@@ -1,6 +1,6 @@
 # calculadora_imc
 
-<img src="https://github.com/TomazSouza/AgendaV4/blob/main/printscreen/screenshot_signIn.png" alt="Sign In" width="250"/>
+<img src="https://github.com/TomazSouza/AgendaV4/blob/main/printscreen/calculadora_imc.png" alt="Sign In" width="250"/>
 
 ## Getting Started
 
