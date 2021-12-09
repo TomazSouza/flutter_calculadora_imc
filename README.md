@@ -1,6 +1,6 @@
 # calculadora_imc
 
-<img src="https://github.com/TomazSouza/AgendaV4/blob/main/printscreen/calculadora_imc.png" alt="Sign In" width="250"/>
+<img src="https://github.com/TomazSouza/flutter_calculadora_imc/blob/main/printscreen/calculadora_imc.png" alt="calculadora_imc" width="250"/>
 
 ## Getting Started
 
