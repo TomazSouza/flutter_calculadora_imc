@@ -1,6 +1,6 @@
 # calculadora_imc
 
-A new Flutter project.
+<img src="https://github.com/TomazSouza/AgendaV4/blob/main/printscreen/screenshot_signIn.png" alt="Sign In" width="250"/>
 
 ## Getting Started
 
