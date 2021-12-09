@@ -1,5 +1,3 @@
-# calculadora_imc
-
 <img src="https://github.com/TomazSouza/flutter_calculadora_imc/blob/main/printscreen/calculadora_imc.png" alt="calculadora_imc" width="250"/>
 
 ## Getting Started
